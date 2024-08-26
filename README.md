@@ -1,0 +1,3 @@
+la aplicación para realizar todas las tareas!
+basada en un renglón desplegable, configurable al 100%
+desarrollar...
